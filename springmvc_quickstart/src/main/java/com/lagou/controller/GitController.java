@@ -9,4 +9,8 @@ public class GitController {
     public void add(){
 
     }
+    
+    public void update(){
+    
+    }
 }
