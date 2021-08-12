@@ -14,6 +14,15 @@ public class GitController {
     
     }
 
+    public void update2(){
+
+    }
+
+    public void update3(){
+
+    }
+
+
     public void test1(){
 
     }
