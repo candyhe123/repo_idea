@@ -2,6 +2,10 @@ package com.lagou.controller;
 
 public class GitController {
 
+    public void testGit(){
+
+    }
+
     public void test(){
 
     }
